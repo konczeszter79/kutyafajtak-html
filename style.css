@@ -1,5 +1,5 @@
 * {
-    color: brown;
+    color: #4d0808;
 }
 
 h1 {
@@ -8,4 +8,13 @@ h1 {
 
 a:link {
     color: darkslategrey;
+}
+tabla{
+    border: 1px solid #aa7777;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td, th{ 
+    padding: 0.5rem;
+    border: 1px solid #aa7777;
 }
