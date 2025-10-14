@@ -1,11 +1,15 @@
 * {
     color: brown;
+    background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
 }
 
 h1 {
     text-align: center;
 }
 
-a:link {
+a:link
+a:visited
+a:hover
+a:active  {
     color: darkslategrey;
 }
