@@ -1,0 +1,11 @@
+* {
+    color: brown;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:link {
+    color: darkslategrey;
+}
