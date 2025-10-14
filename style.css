@@ -1,6 +1,5 @@
 * {
-    color: brown;
-    background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    color: #4d0808;
 }
 
 h1 {
@@ -12,4 +11,19 @@ a:visited
 a:hover
 a:active  {
     color: darkslategrey;
+}
+tabla{
+    border: 1px solid #aa7777;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td, th{ 
+    padding: 0.5rem;
+    border: 1px solid #aa7777;
+}
+.minikep{
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+    border: 3px solid #4d0808;
 }
