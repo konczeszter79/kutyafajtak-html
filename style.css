@@ -10,8 +10,12 @@ h1 {
     text-align: center;
 }
 
-a:link a:visited a:hover a:focus {
-    color: darkslategrey;
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+  color: darkslategrey;
 }
 
 tabla {
