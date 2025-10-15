@@ -1,9 +1,7 @@
 * {
     color: #4d0808;
-}
-
-#kutyaoldal {
-    background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    background-image: url(../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -18,7 +16,7 @@ a:active {
   color: darkslategrey;
 }
 
-tabla {
+table {
     border: 1px solid #aa7777;
     border-collapse: collapse;
     margin: 0 auto;
