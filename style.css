@@ -7,10 +7,7 @@ h1 {
     text-align: center;
 }
 
-a:link
-a:visited
-a:hover
-a:active  {
+a:link {
     color: darkslategrey;
 }
 tabla{
