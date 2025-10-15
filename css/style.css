@@ -1,7 +1,13 @@
 * {
     color: #4d0808;
-    background-image: url(../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+}
+
+body {
+    background-image: url('../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg');
     background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h1 {
