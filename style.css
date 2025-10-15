@@ -1,5 +1,8 @@
 * {
     color: #4d0808;
+}
+
+#kutyaoldal {
     background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
 }
 
@@ -7,19 +10,23 @@ h1 {
     text-align: center;
 }
 
-a:link {
+a:link a:visited a:hover a:focus {
     color: darkslategrey;
 }
-tabla{
+
+tabla {
     border: 1px solid #aa7777;
     border-collapse: collapse;
     margin: 0 auto;
 }
-td, th{ 
+
+td,
+th {
     padding: 0.5rem;
     border: 1px solid #aa7777;
 }
-.minikep{
+
+.minikep {
     float: right;
     width: 400px;
     margin-left: 20px;
